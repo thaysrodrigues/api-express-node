@@ -1,4 +1,3 @@
-# Ignorar pastas do sistema e arquivos de configuração locais
 **/Desktop/
 **/Documents/
 **/Downloads/
@@ -10,10 +9,6 @@
 **/.idea/
 **/*.log
 **/*.tmp
-
-# Ignorar o node_modules
 node_modules/
-
-# Ignorar o ambiente de desenvolvimento do Python (se usado)
 .venv/
 .env
