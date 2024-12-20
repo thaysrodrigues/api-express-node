@@ -1,0 +1,16 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "description": "API (Application Programming Interface) é uma interface que permite a comunicação entre duas aplicações diferentes. Basicamente, é um conjunto de rotinas que permite utilizar as funcionalidades de outra aplicação.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": ""
+}

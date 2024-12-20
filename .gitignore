@@ -1,0 +1,19 @@
+# Ignorar pastas do sistema e arquivos de configuração locais
+**/Desktop/
+**/Documents/
+**/Downloads/
+**/AppData/
+**/Pictures/
+**/Videos/
+**/.cache/
+**/.vscode/
+**/.idea/
+**/*.log
+**/*.tmp
+
+# Ignorar o node_modules
+node_modules/
+
+# Ignorar o ambiente de desenvolvimento do Python (se usado)
+.venv/
+.env
